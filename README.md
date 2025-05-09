@@ -1,5 +1,5 @@
 
-# React && node && Socket Real-Time Chat Application 💬
+# React, node ,Socket Real-Time Chat Application 💬
 
 A real-time one-to-one chat application built with **React**, **Socket.IO**, **Node.js**, and **MongoDB (Mongoose)**. This application supports live messaging, emoji support, and user-friendly UI to simulate a modern chat experience.
 
